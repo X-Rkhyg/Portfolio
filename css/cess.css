@@ -1,0 +1,64 @@
+body {
+    background-color: #070707;
+}
+
+.pd-100 {
+    padding-top: 125px;
+}
+
+.blekkk {
+    background-color: #1b1b1b;
+}
+
+.pd-10 {
+    padding-top: 10px;
+}
+
+.blek {
+    background-color: #1b1b1b;
+}
+
+.red {
+    background-color: #1b1b1b;
+    border: 2px solid #000000;
+    border-radius: 7px;
+}
+
+.pd-50 {
+    padding-top: 50px;
+}
+
+.pd-prof {
+    padding-top: 70px;
+}
+
+.pd-wah {
+    padding-bottom: 230px;
+}
+
+.pd-pe {
+    padding-top: 220px;
+}
+
+.blekkk {
+    background-color: #070707;
+}
+
+.beg {
+    background-color: #bdd61a;
+}   
+
+.kotak {
+    width: 350px;
+    height: 300px;
+    background-color: #1b1b1b;
+    border-radius: 10px;
+}
+
+.robo {
+    color : #bdd61a;
+}
+
+.font-black {
+    color: #000000;
+}
